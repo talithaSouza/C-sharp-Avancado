@@ -1,0 +1,10 @@
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\bin\Debug\conexao.exe.config
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\bin\Debug\conexao.exe
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\bin\Debug\conexao.pdb
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.csprojAssemblyReference.cache
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.Form1.resources
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.Properties.Resources.resources
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.csproj.GenerateResource.cache
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.csproj.CoreCompileInputs.cache
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.exe
+C:\Users\SUPORTE_TI_GSD\Desktop\Estudo\C# Avancado\conexao\conexao\obj\Debug\conexao.pdb
